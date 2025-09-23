@@ -1,0 +1,1 @@
+& C:/Users/kajin/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/kajin/projects/Text_File_Creator/file_creator.py created this file
